@@ -33,6 +33,9 @@ public class FirstStepPage {
     public  void clickButtonContinue(){
         driver.findElement(buttonContinue).click();
     }
+    public void newww(){
+
+    }
 
 
 }
